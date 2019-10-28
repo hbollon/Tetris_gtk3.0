@@ -1,5 +1,3 @@
-Tetris_gtk3.0
-
 Jeu de tetris avec une version graphique et console
 
 Le tetris a été compiler avec gtk3.0, le Makefile fourni fonctionne avec gtk3.0
